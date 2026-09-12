@@ -1,0 +1,9 @@
+[
+  {
+    "id": "sample-video",
+    "title": "Sample Video",
+    "description": "A test title for the local media library.",
+    "type": "video",
+    "duration": "00:00"
+  }
+]
